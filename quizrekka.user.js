@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         QuizRekka
 // @namespace    https://mem.rip/
-// @version      0.1
+// @version      0.2
 // @description  quizdiva got rektd by ts gang
 // @author       memcorrupt
 // @match        https://quizdiva.net/*
