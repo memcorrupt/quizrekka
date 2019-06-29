@@ -5,6 +5,7 @@
 // @description  quizdiva got rektd by ts gang
 // @author       memcorrupt
 // @match        https://quizdiva.net/*
+// @match        https://heyquiz.com/*
 // @grant        none
 // @run-at document-end
 // ==/UserScript==
